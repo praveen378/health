@@ -93,7 +93,7 @@ const App = () => {
           <nav className="bg-white dark:bg-gray-800 shadow-md sticky top-0 z-50 transition-colors duration-300">
             <div className="w-full px-4 py-4 flex flex-wrap items-center justify-between">
               <div className="text-2xl font-bold text-blue-600">
-                Pravasya Arogya
+                Pravasi Arogya
               </div>
               <div className="flex items-center space-x-4">
                 <Link to="/dashboard" className="nav-link">
