@@ -13,7 +13,7 @@ const ContactPage = () => {
           <Mail size={24} className="text-blue-600 mr-4" />
           <div>
             <h3 className="text-lg font-semibold text-gray-800 dark:text-white">Email Us</h3>
-            <a href="mailto:support@healthconnect.com" className="text-blue-600 hover:underline">support@healthconnect.com</a>
+            <a href="mailto:support@pravasiarogya.com" className="text-blue-600 hover:underline">support@pravasiarogya.com</a>
           </div>
         </div>
         <div className="flex items-center mb-6">
@@ -34,5 +34,6 @@ const ContactPage = () => {
     </div>
   );
 };
+
 
 export default ContactPage;
